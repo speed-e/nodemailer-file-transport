@@ -10,7 +10,7 @@
   "repository": "https://github.com/CDA0/nodemailer-file-transport",
   "license": "ISC",
   "dependencies": {
-    "npm-user-validate": "^1.0.0"
+    "npm-user-validate": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^4.0.0",
